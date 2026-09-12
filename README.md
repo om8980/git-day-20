@@ -4,8 +4,6 @@ Om
 Dhruv
 Raju
 
-Authentication
+Dark Mode feature
 
-homepage
-
-Payment Gateway
+AI feature
