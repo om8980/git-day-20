@@ -4,6 +4,4 @@ Om
 Dhruv
 Raju
 
-Dark Mode feature
-
-AI feature
+Fixed login redirect
